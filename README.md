@@ -9,7 +9,7 @@ HTML, CSS,  JavaScript
 
 ### GÖRÜNÜM:
 
-<img width="960" alt="html-css-JavaScript" src="(https://user-images.githubusercontent.com/84996782/170386685-68ed7eac-b6b8-49ff-acb4-6c9da78ef0c5.png">
-<img width="960" alt="html-css-JavaScript" src="(https://user-images.githubusercontent.com/84996782/170386768-ab2648df-c655-4c43-82ed-45fb89035288.png">
+<img width="960" alt="html-css-JavaScript" src="(https://user-images.githubusercontent.com/84996782/170387828-3dfa3aeb-5829-4833-a71f-3e727056d2df.png">
+<img width="960" alt="html-css-JavaScript" src="(https://user-images.githubusercontent.com/84996782/170387942-9d06945a-1496-44a5-9b6b-91af2cc18160.png">
 
 
